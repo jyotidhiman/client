@@ -1,6 +1,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/jyotidhiman/core
-	branch = master
+	branch = stage
 [submodule]
 	core = branch
