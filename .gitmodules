@@ -1,6 +1,0 @@
-[submodule "core"]
-	path = core
-	url = https://github.com/jyotidhiman/core
-	branch = master
-[submodule]
-	core = branch
